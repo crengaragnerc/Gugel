@@ -9,6 +9,9 @@ También quiero añadir:
  iniciar sesión
  lógica en las reacciones
  lógica en las preguntas infinitas
+ estadisticas:
+  satisfación del usuario en porcentaje
+  reseña/opinión del usuario
  modos:
   claro
   oscuro
